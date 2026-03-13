@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mustafa
-- 👀 I’m interested in software development at any platform.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development at any platform. 
 - 📫 How to reach me mustafaoskay44@gmail.com By using this mail adress.
 
 <!---
